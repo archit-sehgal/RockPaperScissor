@@ -1,3 +1,2 @@
 # RockPaperScissor
-Rock paper scissor in python using tkinter
-🪨📃✂️
+Rock paper scissor in python using tkinter🪨📃✂️
